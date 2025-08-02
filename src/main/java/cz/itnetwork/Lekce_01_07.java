@@ -2,7 +2,7 @@ package cz.itnetwork;
 
 //import java.util.Scanner;
 
-public class Main {
+public class Lekce_01_07 {
 
     public static void main(String[] args) {
         /*
